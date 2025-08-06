@@ -39,9 +39,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angst04/Angst04/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Angst04/Angst04/output/dist/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Angst04/Angst04/output/dist/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angst04/Angst04/output/grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Angst04/Angst04/output/grid-snake.svg" />
   </picture>
 </div>
 
