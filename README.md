@@ -1,5 +1,3 @@
-<h2 align="left">Hi ✌️! My name is Stas and I'm a frontend developer</h2>
-
 ###
 
 <div align="center">
